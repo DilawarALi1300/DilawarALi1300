@@ -1,0 +1,3 @@
+- 👋 Hi, I’m **Dilawar Ali**
+- 👀 I’m interested in **Data Analytics/Business Analytics**
+- 🌱 I’m currently learning **Data Analytics/Business Analytics**
